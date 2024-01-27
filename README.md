@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/devendra2596" target="blank"><img src="https://img.shields.io/twitter/follow/devendra2596?logo=twitter&style=for-the-badge" alt="devendra2596" /></a> </p>
 
+
+
+
 - 🌱 I’m currently learning **Kubernetes Troubleshooting**
 
 - 📝 I regularly write articles on [https://medium.com/@devendrapatil2596](https://medium.com/@devendrapatil2596)
@@ -12,6 +15,17 @@
 - 💬 Ask me about **Linux, Jenkins, Docker, Kubernetes & Terraform**
 
 - 📫 How to reach me **devendrapatil2596@gmail.com**
+
+<br/>
+
+
+<details>
+  <summary>Something interesting about me! 😄</summary>
+   
+  - Live and learn - Learning new things every day! ☀️
+  - Believe in self CI/CD (Continuous Improvements/Continuous Development) 🌱
+</details>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +39,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+
+### 🎖️ Certifications
+
+<a title="HashiCorp Certified: Terraform Associate (003)" href="https://www.credly.com/badges/55cc19ee-73d4-411a-a438-90d493d7a5a3/linked_in_profile"><img height="60" src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png"></a>
+<a title="AWS Certified Cloud Practitioner" href="https://www.credly.com/badges/9c8dcf4c-c5f2-41c9-be8c-70d0d178903d/public_url"><img height="60" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
+
+
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deva2596&show_icons=true&locale=en&layout=compact" alt="deva2596" /></p>
 
